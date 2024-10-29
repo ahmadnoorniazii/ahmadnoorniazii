@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Ahmad Noor Niazi
+# 👋 Hello! I'm Ahmad Noor
 
 ### 👨‍💻 Software Engineer | 🌐 Frontend Developer | 🌍 Remote Innovator
 
