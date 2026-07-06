@@ -1,41 +1,32 @@
-# 👋 Hello! I'm Ahmad Noor
+# 👋 Hi, I'm Ahmad Noor
 
-### 👨‍💻 Software Engineer | 🌐 FullStack JavaScript Developer (Frontend Heavy) | 🌍 Remote Innovator
+**Senior Full Stack Engineer (Frontend Heavy) · Berlin, Germany**
 
-Hey there! I'm Ahmad, a frontend engineer with **6+ years of experience** in crafting high-performance web applications. Currently, I’m based in Germany, working remotely with the amazing team at **Factor Eleven** to create scalable, impactful ad tech solutions.
+Frontend-focused full-stack engineer with **7+ years** building high-performance web platforms in **React, TypeScript and Next.js**. Currently at **Factor Eleven**, working on a micro-frontend advertising platform and bringing **AI-powered features** into production.
 
 ---
 
 ### 🛠 Tech Stack
-- **Frontend**: 🖥️ TypeScript | ⚛️ React | 🔍 GraphQL | 🚀 Apollo | 📚 Storybook | 🌐 HTML | 🎨 CSS | ⚡ Vite
-- **Testing**: 🧪 Jest | 🧩 React Testing Library | ⚡ Vitest | 🔍 SonarQube
-- **Backend**: 🖥️ Node.js
-- **Other**: 🖱️ @dnd-kit for drag-and-drop | Formik for forms validation 
+- **Frontend:** TypeScript · React · Next.js · Vue.js · GraphQL / Apollo · Tailwind CSS · Storybook · HTML / CSS · Vite
+- **Architecture:** Micro-frontends · Module Federation · Design systems · Accessibility (WCAG 2.1 AA) · Core Web Vitals
+- **Testing:** Jest · React Testing Library · Cypress · Vitest
+- **Backend:** Node.js · Express · REST APIs
+- **AI & Agents:** LLM integration · tool calling · Model Context Protocol (MCP) · RAG · evals · Claude API
 
 ---
 
-### 🌟 Current Projects
-- **🚀 Factor Eleven Ad Platform**  
-  Collaborating on an ad platform that **boosts ad performance by 30%** over Google Ads!  
+### 🔭 What I'm working on
+- Frontend architecture and a shared component library / design system for a micro-frontend ad platform
+- Bringing AI-powered product features to production (tool calling, structured outputs, eval-driven iteration)
+- Dynamic, responsive drag-and-drop components with custom placeholders and sorting logic
+- Accessible, performant, reusable UI foundations
 
 ---
 
-### 🔍 What I’m Working On
-- 🏗 **Enhancing web accessibility** and performance in ad platforms  
-- 🧩 **Creating dynamic, responsive drag-and-drop components** with custom placeholders and sorting logic  
+### 📫 Connect
+- **LinkedIn:** [linkedin.com/in/ahmadnoorniazi](https://www.linkedin.com/in/ahmadnoorniazi/)
+- **Email:** ahmadnoor97n@gmail.com
 
 ---
 
-### 📂 Notable Past Projects
-💼 My previous work on GitHub ([@ahmadnoorniazi](https://github.com/ahmadnoorniazi)) features additional projects and contributions, showcasing my evolution as a developer. While I no longer maintain this profile, it’s a part of my journey and holds valuable insights!
-
----
-
-### 📫 Let’s Connect!
-- 💼 **LinkedIn**: [linkedin.com/in/ahmadnoorniazi](https://www.linkedin.com/in/ahmadnoorniazi/)
-- 🌐 **New GitHub**: [github.com/ahmadnoorniazii](https://github.com/ahmadnoorniazii)  
-
----
-
-Thanks for stopping by! Feel free to reach out or check out my repositories 👀. Let's create something amazing together!
-
+_Open to senior frontend / frontend-heavy full-stack roles in Berlin or remote._
