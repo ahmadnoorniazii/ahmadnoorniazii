@@ -23,6 +23,7 @@ Eight years building web products in **React, TypeScript and Node.js**, most rec
 ---
 
 ### 📫 Connect
+- **LinkedIn:** [linkedin.com/in/ahmadnoorniazii](https://www.linkedin.com/in/ahmadnoorniazii/)
 - **Email:** ahmadnoor97n@gmail.com
 - **Dev.to:** [dev.to/ahmadnoorniazi](https://dev.to/ahmadnoorniazi)
 
