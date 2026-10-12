@@ -2,7 +2,7 @@
 
 **Senior Full Stack Engineer (Frontend Heavy) · Brandenburg / Berlin, Germany**
 
-Eight years building web products in **React, TypeScript and Node.js**, most recently at **Factor Eleven** on a micro-frontend advertising platform, where I also worked on the internal AI agent (tool calling, structured outputs, streaming, eval-driven iteration) and built MCP servers in TypeScript. Currently freelancing on LLM products and looking for my next full-time role.
+Eight years building web products in **React, TypeScript and Node.js**. My longest stretch is more than three years on **Factor Eleven**'s micro-frontend advertising platform (through upsidecode, then directly), where I worked on the ad builder, the shared design system, an AWS Lambda ad-preview service, the internal AI agent (tool calling, structured outputs, streaming, eval-driven iteration) and MCP servers in TypeScript.
 
 ---
 
@@ -17,7 +17,8 @@ Eight years building web products in **React, TypeScript and Node.js**, most rec
 - **Frontend:** TypeScript · React · Next.js · Vue.js · GraphQL / Apollo · Tailwind CSS · Storybook · Vite
 - **Architecture:** Micro-frontends · Module Federation · Design systems · Accessibility (WCAG 2.1 AA) · Core Web Vitals
 - **Testing:** Jest · React Testing Library · Cypress · Vitest
-- **Backend:** Node.js · Express · REST APIs · AWS Lambda · Cloudflare Workers
+- **Backend:** Node.js · NestJS · Express · Microservices · gRPC · Protocol Buffers · REST APIs · GraphQL · BullMQ · AWS Lambda · Cloudflare Workers
+- **Databases:** PostgreSQL · MongoDB · Redis · MySQL
 - **AI & Agents:** LLM integration · tool calling · Model Context Protocol (MCP) · RAG (Pinecone, Upstash Vector) · evals (Braintrust) · Claude API · OpenAI API
 
 ---
