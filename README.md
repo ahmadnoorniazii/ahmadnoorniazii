@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Ahmad Noor
 
-**Senior Full Stack Engineer (Frontend Heavy) · Brandenburg / Berlin, Germany**
+**Senior Full Stack Engineer · Germany (open to relocation or remote)**
 
-Eight years building web products in **React, TypeScript and Node.js**. My longest stretch is more than three years on **Factor Eleven**'s micro-frontend advertising platform (through upsidecode, then directly), where I worked on the ad builder, the shared design system, an AWS Lambda ad-preview service, the internal AI agent (tool calling, structured outputs, streaming, eval-driven iteration) and MCP servers in TypeScript.
+Senior full-stack engineer with 8 years of experience in **React, TypeScript and Node.js**, now focused on AI features inside web products and building production-ready AI agents with durable execution, deterministic workflows, eval-driven development and custom scorers.
+
+At **Factor Eleven** I spent more than three years on an advertising platform (through upsidecode, then directly). I worked on the complex ad builder, a visual editing tool, and its preview rendering, owning features from product requirements through to production, plus micro-frontends, a shared accessible component library and an AWS Lambda ad-preview service. I also contributed to the internal AI agent (tool calling, structured outputs, streaming, evals) and built MCP servers in TypeScript.
 
 ---
 
 ### 🔭 What I'm building now
-- [**ai-diagram-agent**](https://github.com/ahmadnoorniazii/ai-diagram-agent): an agent that draws Excalidraw diagrams from a conversation. Cloudflare Workers, Vercel AI SDK, RAG over a small corpus, and an eval suite with eight code-based scorers against golden datasets, because the output looked right far more often than it was right.
+- [**ai-diagram-agent**](https://github.com/ahmadnoorniazii/ai-diagram-agent): an agent that draws Excalidraw diagrams from a conversation. Cloudflare Workers (durable objects), Vercel AI SDK, RAG over a small corpus, and an eval suite with eight code-based scorers against golden datasets, because the output looked right far more often than it was right.
 - A production lead-to-booking agent for a small SaaS: inbound leads from Facebook and the website go into a conversation, then a deterministic booking flow, with human handoff, a sensitive-topic guardrail, and model tiering to keep costs down.
 - MCP servers in TypeScript and Node that give internal services and data sources a typed surface a model can call.
 
@@ -30,4 +32,4 @@ Eight years building web products in **React, TypeScript and Node.js**. My longe
 
 ---
 
-_Open to senior frontend, full stack and AI engineering roles in Berlin or remote. German permanent residence, no sponsorship needed._
+_Open to senior frontend, full stack and AI engineering roles across Germany, on site, hybrid or remote. German permanent residence, no sponsorship needed._
